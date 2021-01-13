@@ -6,6 +6,9 @@ This is just random text in the file
 
 If you want **bold** text, just surround the word with a double star 
 
+If you want to *italisized* this is how you do it 
+
+
 If you want to make a list 
 
 - idtem 1
